@@ -21,7 +21,6 @@
     "ms-toolsai.datawrangler",
     "ms-python.vscode-python-envs",
     "bierner.markdown-mermaid",
-    "ms-toolsai.vscode-jupyter-powertoys",
-    "ms-dotnettools.dotnet-interactive-vscode"
+    "ms-toolsai.vscode-jupyter-powertoys"
   ]
 }
